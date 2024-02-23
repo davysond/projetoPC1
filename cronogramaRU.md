@@ -15,15 +15,11 @@ O Sistema de Pagamento RU é um software destinado à gestão de compra de ticke
 - Opções de pagamento: Pix, cartão, entre outras.
 - Geração de QR code para validação da compra.
 
-#### **2.3 Funcionalidade Offline**
-- Armazenamento local de transações para uso offline.
-- Sincronização automática quando o dispositivo volta online.
-
-#### **2.4 Histórico de Transações**
+#### **2.3 Histórico de Transações**
 - Registro detalhado das transações efetuadas.
 - Consulta de histórico para os usuários.
 
-#### **2.5 Notificações**
+#### **2.4 Notificações**
 - Notificações para confirmação de compra.
 - Alertas sobre saldo baixo ou transações offline pendentes.
 
