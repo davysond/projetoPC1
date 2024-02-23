@@ -19,10 +19,6 @@ O Sistema de Pagamento RU é um software destinado à gestão de compra de ticke
 - Registro detalhado das transações efetuadas.
 - Consulta de histórico para os usuários.
 
-#### **2.4 Notificações**
-- Notificações para confirmação de compra.
-- Alertas sobre saldo baixo ou transações offline pendentes.
-
 ### **3. Requisitos Não Funcionais**
 
 #### **3.1 Segurança**
