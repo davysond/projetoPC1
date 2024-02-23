@@ -63,11 +63,9 @@ O Sistema de Pagamento RU é um software destinado à gestão de compra de ticke
 
 4. **Geração do QR Code**: Um QR code é gerado para validar a compra.
 
-5. **Funcionalidade Offline**: Se o dispositivo estiver offline, as transações são armazenadas localmente.
+5. **Sincronização**: Quando o dispositivo volta online, as transações offline são sincronizadas.
 
-6. **Sincronização**: Quando o dispositivo volta online, as transações offline são sincronizadas.
-
-7. **Histórico**: O usuário pode consultar seu histórico de transações a qualquer momento.
+6. **Histórico**: O usuário pode consultar seu histórico de transações a qualquer momento.
 
 ### **6. Testes**
 
