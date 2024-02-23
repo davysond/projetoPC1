@@ -2,7 +2,7 @@
 
 ### **1. Introdução**
 
-O Sistema de Pagamento RU é um software destinado à gestão de compra de tickets do Restaurante Universitário (RU). Ele oferece a conveniência de ser acessado pelo aplicativo e permite a compra de tickets de refeição offline. O usuário pode efetuar o pagamento através de diversas opções, como Pix, cartão, entre outras.
+O Sistema de Pagamento RU é um software destinado à gestão de compra de tickets do Restaurante Universitário (RU). Ele oferece a conveniência de ser acessado pelo aplicativo e permite a compra de tickets de refeição. O usuário pode efetuar o pagamento através de diversas opções, como Pix, cartão, entre outras.
 
 ### **2. Requisitos Funcionais**
 
@@ -89,3 +89,17 @@ O Sistema de Pagamento RU é um software destinado à gestão de compra de ticke
 ### **9. Considerações Finais**
 
 O Sistema de Pagamento RU proporcionará uma experiência eficiente e conveniente para os usuários, garantindo segurança nas transações e facilidade de uso tanto online quanto offline.
+
+### **10. Cronograma de Sprints**
+
+| Sprint | Atividades                                                     | Tempo Estimado | Reuniões                                           |
+|--------|-----------------------------------------------------------------|----------------|----------------------------------------------------|
+| 1      | Definição de requisitos, arquitetura e planejamento tecnológico | 2 semanas      | Reunião Inicial                                   |
+| 2      | Desenvolvimento do Frontend                                    | 3 semanas      | Revisão de Meio de Sprint                         |
+| 3      | Desenvolvimento do Backend                                     | 4 semanas      | Revisão de Meio de Sprint                         |
+| 4      | Funcionalidades de Compra e Pagamento                          | 3 semanas      | Revisão de Meio de Sprint                         |
+| 5      | Funcionalidades Offline e Sincronização                       | 3 semanas      | Revisão de Meio de Sprint                         |
+| 6      | Histórico de Transações e Notificações                         | 2 semanas      | Revisão Final de Sprint                           |
+| 7      | Testes e Correções                                             | 3 semanas      | Revisão de Testes                                 |
+| 8      | Implementação e Deploy                                         | 2 semanas      | Reunião de Planejamento Final                     |
+| 9      | Monitoramento e Manutenção                                    | Em andamento   | Reuniões periódicas de Manutenção (a cada duas semanas) |
