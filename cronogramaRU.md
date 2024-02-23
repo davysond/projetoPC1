@@ -88,7 +88,7 @@ O Sistema de Pagamento RU proporcionará uma experiência eficiente e convenient
 
 | Sprint | Atividades                                                     | Tempo Estimado | Reuniões                                           |
 |--------|-----------------------------------------------------------------|----------------|----------------------------------------------------|
-| 1      | Definição de requisitos, arquitetura e planejamento tecnológico | 2 semanas      | Reunião Inicial                                   |
+| 1      | Definição de requisitos, arquitetura e planejamento tecnológico | -      | Reunião Inicial                                   |
 | 2      | Desenvolvimento do Frontend                                    | 3 semanas      | Revisão de Meio de Sprint                         |
 | 3      | Desenvolvimento do Backend                                     | 4 semanas      | Revisão de Meio de Sprint                         |
 | 4      | Funcionalidades de Compra e Pagamento                          | 3 semanas      | Revisão de Meio de Sprint                         |
