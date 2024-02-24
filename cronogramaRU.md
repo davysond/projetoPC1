@@ -102,7 +102,7 @@ O Sistema de Pagamento RU proporcionará uma experiência eficiente e convenient
 
 ### **12. Funções - Membros**
 
-- Anderson de Lima Leite - anderson.leite@ccc.ufcg.edu.br: Desenvolvedor Ba
+- Anderson de Lima Leite - anderson.leite@ccc.ufcg.edu.br: Desenvolvedor Back-end.
 - Cleciana Maria de Santana - cleciana.santana@ccc.ufcg.edu.br: Desenvolvedor Back-end.
 - Davyson Douglas Gomes Guimarães - davyson.guimaraes@ccc.ufcg.edu.br: Desenvolvedor Back-end/Scrum Master.
 - Felipe Jerônimo Bernardo da Silva - felipe.jeronimo.silva@ccc.ufcg.edu.br: Desenvolvedor Front-end
