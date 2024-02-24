@@ -94,7 +94,7 @@ O Sistema de Pagamento RU proporcionará uma experiência eficiente e convenient
 | 8      | Implementação e Deploy                                         | 2 semanas      | Reunião de Planejamento Final                     |
 | 9      | Monitoramento e Manutenção                                    | Em andamento   | Reuniões periódicas de Manutenção (a cada duas semanas) |
 
-## **11. Gestão de Riscos**
+### **11. Gestão de Riscos**
 - Risco: Problemas de integração entre as partes do sistema.
   - Mitigação: Realizar testes de integração frequentes durante o desenvolvimento.
 - Risco: Dificuldades técnicas na implementação de métodos de pagamento.
