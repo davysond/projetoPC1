@@ -47,7 +47,7 @@ O Sistema de Pagamento RU é um software destinado à gestão de compra de ticke
 - Sistema de gestão de transações e sincronização offline.
 
 #### **4.3 Banco de Dados**
-- Banco de dados relacional para armazenar dados de transações e usuários.
+- Banco de dados relacional para armazenar dados de transações e usuários. (Relacional com PostgreSQL).
 
 ### **5. Fluxo de Funcionamento**
 
@@ -109,3 +109,32 @@ O Sistema de Pagamento RU proporcionará uma experiência eficiente e convenient
 - José Arthur Neves de Brito -  jose.arthur.brito@ccc.ufcg.edu.brs: Desenvolvedor Front-end
 - Luiz Antonio Correia Costa Cardozo - luiz.cardozo@ccc.ufcg.edu.br: Desenvolvedor Back-end.
 - Marcos Vinícius Santos Silva - marcos.silva@ccc.ufcg.edu.br: Desenvolvedor Front-end.
+
+### Backlog do Projeto Sistema de Pagamento RU Pay
+
+- Épico: Autenticação e Autorização
+
+História de Usuário 1: Como um usuário, quero poder me autenticar de forma segura no sistema para acessar minha conta.
+História de Usuário 2: Como um usuário, quero que o sistema diferencie entre os perfis de estudante e funcionário para garantir diferentes permissões de acesso.
+História de Usuário 3: Como um usuário, quero poder recuperar minha senha caso eu a esqueça.
+
+- Épico: Compra de Tickets
+
+História de Usuário 4: Como um usuário, quero uma interface intuitiva para comprar tickets de refeição.
+História de Usuário 5: Como um usuário, quero opções de pagamento como Pix, cartão, entre outras.
+História de Usuário 6: Como um usuário, quero receber um QR code/comprovante após a compra para validar minha transação.
+
+- Épico: Histórico de Transações
+
+História de Usuário 7: Como um usuário, quero ter acesso a um registro detalhado das transações efetuadas.
+História de Usuário 8: Como um usuário, quero poder consultar meu histórico de transações.
+
+- Requisitos Não Funcionais
+
+História de Usuário 9: Como um usuário, quero que meus dados sensíveis sejam criptografados para garantir segurança.
+História de Usuário 10: Como um usuário, quero que o sistema proteja contra acesso não autorizado.
+História de Usuário 11: Como um usuário, quero que o sistema responda rapidamente às minhas solicitações.
+História de Usuário 13: Como um usuário, quero que o sistema faça backup e recuperação de dados em caso de falhas.
+História de Usuário 14: Como um usuário, quero uma interface intuitiva e amigável.
+História de Usuário 15: Como um usuário, quero que o sistema ofereça suporte a diferentes tamanhos de tela.
+
