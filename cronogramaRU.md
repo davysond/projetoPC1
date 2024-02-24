@@ -39,7 +39,7 @@ O Sistema de Pagamento RU é um software destinado à gestão de compra de ticke
 ### **4. Arquitetura do Sistema**
 
 #### **4.1 Frontend**
-- Desenvolvimento de aplicativo móvel multiplataforma (React Native, Flutter).
+- Desenvolvimento de aplicativo web resposivo (JavaScript/React e Java/Spring Boot).
 - Interface amigável para facilitar a compra de tickets.
 
 #### **4.2 Backend**
