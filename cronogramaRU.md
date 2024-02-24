@@ -1,4 +1,4 @@
-**Projeto de Software: Sistema de Pagamento RU**
+### **Projeto de Software: Sistema de Pagamento RU**
 
 ### **1. Introdução**
 
