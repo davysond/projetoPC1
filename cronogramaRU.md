@@ -102,4 +102,15 @@ O Sistema de Pagamento RU proporcionará uma experiência eficiente e convenient
 - Risco: Limitações na escalabilidade do banco de dados.
   - Mitigação: Monitoramento contínuo e otimização conforme necessário.
 - Risco: Problemas de segurança devido à criptografia básica.
-  - Mitigação: Atualizar a criptografia conforme necessário e realizar auditorias de segurança regulares. 
+  - Mitigação: Atualizar a criptografia conforme necessário e realizar auditorias de segurança regulares.
+  - 
+
+### **12. Funções - Membros**
+
+- Anderson de Lima Leite - anderson.leite@ccc.ufcg.edu.br: 
+- Cleciana Maria de Santana - cleciana.santana@ccc.ufcg.edu.br: 
+- Davyson Douglas Gomes Guimarães - davyson.guimaraes@ccc.ufcg.edu.br: 
+- Felipe Jerônimo Bernardo da Silva - felipe.jeronimo.silva@ccc.ufcg.edu.br: 
+- José Arthur Neves de Brito -  jose.arthur.brito@ccc.ufcg.edu.brs: 
+- Luiz Antonio Correia Costa Cardozo - luiz.cardozo@ccc.ufcg.edu.br: 
+- Marcos Vinícius Santos Silva - marcos.silva@ccc.ufcg.edu.br: 
