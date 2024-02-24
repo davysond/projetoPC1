@@ -103,7 +103,6 @@ O Sistema de Pagamento RU proporcionará uma experiência eficiente e convenient
   - Mitigação: Monitoramento contínuo e otimização conforme necessário.
 - Risco: Problemas de segurança devido à criptografia básica.
   - Mitigação: Atualizar a criptografia conforme necessário e realizar auditorias de segurança regulares.
-  - 
 
 ### **12. Funções - Membros**
 
