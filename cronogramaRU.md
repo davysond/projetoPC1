@@ -88,7 +88,7 @@ O Sistema de Pagamento RU proporcionará uma experiência eficiente e convenient
 | 2      | Desenvolvimento do Frontend                                    | 2 semanas      | Revisão de Meio de Sprint                         |
 | 3      | Desenvolvimento do Backend                                     | 2 semanas      | Revisão de Meio de Sprint                         |
 | 4      | Integração e Deploy                                           | 2 semanas      | Revisão de Meio de Sprint                         |
-| 5      | Testes e Correções                                             | 3 semanas      | Revisão de Testes                                 |
+| 5      | Testes e Correções                                             | 2 semanas      | Revisão de Testes                                 |
 
 ### **11. Gestão de Riscos**
 - Risco: Problemas de integração entre as partes do sistema.
