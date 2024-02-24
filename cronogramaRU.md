@@ -91,13 +91,21 @@ O Sistema de Pagamento RU proporcionará uma experiência eficiente e convenient
 
 | Sprint | Duração | Épico                        | História de Usuário                            |
 |--------|----------|------------------------------|-----------------------------------------------|
-| 1      | 2 semanas| Autenticação e Autorização   | 1. Autenticação de usuários;
-                                                    2. Diferenciação de perfis, 3. Recuperação de senha   |
-| 2      | 2 semanas| Compra de Tickets             | 4. Interface para compra de tickets, 5. Opções de pagamento, 6. Geração de QR code |
-| 3      | 2 semanas| Histórico de Transações       | 7. Registro detalhado de transações, 8. Consulta de histórico de transações    |
-| 4      | 2 semanas| Integração e Deploy           | Integração de todas as funcionalidades, Preparação para o deploy do sistema    |
-| 5      | 2 semanas| Requisitos Não Funcionais e Entrega| 9. Criptografia de dados sensíveis, 10. Proteção contra acesso não autorizado, 11. Resposta rápida às solicitações, 14. Interface intuitiva e amigável, 15. Suporte a diferentes tamanhos de tela |
-
+| 1      | 2 semanas| Autenticação e Autorização   | - Autenticação de usuários 
+|        |           |                              | - Diferenciação de perfis 
+|        |           |                              | - Recuperação de senha
+| 2      | 2 semanas| Compra de Tickets             | - Interface para compra de tickets 
+|        |           |                              | - Opções de pagamento 
+|        |           |                              | - Geração de QR code
+| 3      | 2 semanas| Histórico de Transações       | - Registro detalhado de transações 
+|        |           |                              | - Consulta de histórico de transações
+| 4      | 2 semanas| Integração e Deploy           | - Integração de todas as funcionalidades 
+|        |           |                              | - Preparação para o deploy do sistema
+| 5      | 2 semanas| Requisitos Não Funcionais e Entrega| - Criptografia de dados sensíveis 
+|        |           |                              | - Proteção contra acesso não autorizado 
+|        |           |                              | - Resposta rápida às solicitações 
+|        |           |                              | - Interface intuitiva e amigável 
+|        |           |                              | - Suporte a diferentes tamanhos de tela
 ### **11. Gestão de Riscos**
 - Risco: Problemas de integração entre as partes do sistema.
   - Mitigação: Realizar testes de integração frequentes durante o desenvolvimento.
