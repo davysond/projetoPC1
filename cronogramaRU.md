@@ -110,31 +110,6 @@ O Sistema de Pagamento RU proporcionará uma experiência eficiente e convenient
 
 ### **11. Cronograma de Sprints**
 
-| Sprint | Atividades                                                     | Tempo Estimado | Reuniões                                           |
-|--------|-----------------------------------------------------------------|----------------|----------------------------------------------------|
-| 1      | Desenvolvimento do Front-end e Back-end                        | 2 semanas      | Revisão de Meio de Sprint                         |
-| 2      | Desenvolvimento do Backend                                     | 2 semanas      | Revisão de Meio de Sprint                         |
-| 4      | Integração e Deploy                                           | 2 semanas      | Revisão de Meio de Sprint                         |
-| 5      | Testes e Correções                                             | 2 semanas      | Revisão de Testes                                 |
-
-| Sprint | Duração | Épico                        | História de Usuário                            |
-|--------|----------|------------------------------|-----------------------------------------------|
-| 1      | 2 semanas| Autenticação e Autorização   | - Autenticação de usuários 
-|        |           |                              | - Diferenciação de perfis 
-|        |           |                              | - Recuperação de senha
-| 2      | 2 semanas| Compra de Tickets             | - Interface para compra de tickets 
-|        |           |                              | - Opções de pagamento 
-|        |           |                              | - Geração de QR code
-| 3      | 2 semanas| Histórico de Transações       | - Registro detalhado de transações 
-|        |           |                              | - Consulta de histórico de transações
-| 4      | 2 semanas| Integração e Deploy           | - Integração de todas as funcionalidades 
-|        |           |                              | - Preparação para o deploy do sistema
-| 5      | 2 semanas| Requisitos Não Funcionais e Entrega| - Criptografia de dados sensíveis 
-|        |           |                              | - Proteção contra acesso não autorizado 
-|        |           |                              | - Resposta rápida às solicitações 
-|        |           |                              | - Interface intuitiva e amigável 
-|        |           |                              | - Suporte a diferentes tamanhos de tela
-
 | Sprint | Duração | Épico                        | História de Usuário                            |
 |--------|----------|------------------------------|-----------------------------------------------|
 | 1      | 2 semanas| Autenticação e Autorização   | 1. Autenticação de usuários, 2. Diferenciação de perfis, 3. Recuperação de senha |
