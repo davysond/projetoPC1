@@ -2,7 +2,7 @@
 
 ### **1. Introdução**
 
-O Sistema de Pagamento RU é um software destinado à gestão de compra de tickets do Restaurante Universitário (RU). Ele oferece a conveniência de ser acessado pelo aplicativo e permite a compra de tickets de refeição. O usuário pode efetuar o pagamento através de diversas opções, como Pix, cartão, entre outras.
+O Sistema de Pagamento RU é um software destinado à gestão de compra de tickets do Restaurante Universitário (RU). Ele oferece a conveniência de ser acessado pelo aplicativo e permite a compra de tickets de refeição. O usuário pode efetuar o pagamento através de diversas opções, como Pix, cartão, entre outras, é uma solução inovadora dedicada à administração eficiente da aquisição de tickets do Restaurante Universitário (RU), visando atender de maneira ágil e prática às necessidades dos usuários desse serviço. Este software, que prioriza a comodidade, está especialmente desenvolvido para atender ao público diversificado do RU, abrangendo alunos, funcionários e visitantes que frequentam o ambiente acadêmico. Ao possibilitar o acesso por meio de um aplicativo intuitivo, o sistema visa simplificar o processo de compra de tickets de refeição, proporcionando aos usuários uma experiência dinâmica e adaptada às demandas variadas de pagamento, incluindo opções como Pix, cartão, e outras modalidades. Nesse contexto, o Sistema de Pagamento RU destaca-se como uma ferramenta essencial para otimizar a gestão e garantir a satisfação de todos os envolvidos na comunidade acadêmica.
 
 ### **2. Requisitos Funcionais**
 
