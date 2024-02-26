@@ -101,7 +101,7 @@ O Sistema de Pagamento RU é um software destinado à gestão de compra de ticke
 
 ### **9. Deploy e Manutenção**
 
-- Implementação do sistema em ambiente de produção.
+- Implementação do sistema em ambiente de produção (plataformas viáveis para o processo, tais como Vercel ou Heroku).
 - Monitoramento constante e atualizações de segurança.
 
 ### **10. Considerações Finais**
