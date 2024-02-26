@@ -137,11 +137,11 @@ O Sistema de Pagamento RU proporcionará uma experiência eficiente e convenient
 
 | Sprint | Duração | Épico                        | História de Usuário                            |
 |--------|----------|------------------------------|-----------------------------------------------|
-| 1      | 2 semanas| Autenticação e Autorização   | - Autenticação, diferenciação de perfis e recuperação de senha |
-| 2      | 2 semanas| Compra de Tickets             | - Interface para compra de tickets, opções de pagamento e geração de QR code |
-| 3      | 2 semanas| Histórico de Transações       | - Registro detalhado e consulta de histórico de transações |
-| 4      | 2 semanas| Integração e Deploy           | - Integração de todas as funcionalidades e preparação para o deploy do sistema |
-| 5      | 2 semanas| Requisitos Não Funcionais e Entrega| - Criptografia, proteção contra acesso não autorizado, resposta rápida, interface intuitiva e suporte a diferentes tamanhos de tela |
+| 1      | 2 semanas| Autenticação e Autorização   | 1. Autenticação de usuários, 2. Diferenciação de perfis, 3. Recuperação de senha |
+| 2      | 2 semanas| Compra de Tickets             | 1. Interface para compra de tickets, 2. Opções de pagamento, 3. Geração de QR code |
+| 3      | 2 semanas| Histórico de Transações       | 1. Registro detalhado de transações, 2. Consulta de histórico de transações |
+| 4      | 2 semanas| Integração e Deploy           | 1. Integração de todas as funcionalidades, 2. Preparação para o deploy do sistema |
+| 5      | 2 semanas| Requisitos Não Funcionais e Entrega| 1. Criptografia de dados sensíveis, 2. Proteção contra acesso não autorizado, 3. Resposta rápida às solicitações, 4. Interface intuitiva e amigável, 5. Suporte a diferentes tamanhos de tela |
 
 ### **12. Gestão de Riscos**
 - Risco: Problemas de integração entre as partes do sistema.
