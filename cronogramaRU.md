@@ -36,7 +36,7 @@ O Sistema de Pagamento RU é um software destinado à gestão de compra de ticke
 - Interface intuitiva e amigável.
 - Suporte a diferentes tamanhos de tela.
 
-### **4. Backlog do Projeto - Sistema de Pagamento RU Pay**
+### **4. Backlog do Projeto**
 
 - Épico: Autenticação e Autorização
 
