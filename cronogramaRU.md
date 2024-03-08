@@ -149,7 +149,7 @@ O Sistema de Pagamento RU Pay proporcionará uma experiência eficiente e conven
 |--------|----------|------------------------------|-----------------------------------------------|
 | 1      | 2 semanas| Autenticação e Autorização   | 1. Autenticação de usuários, 2. Inserção da matrícula, 3. Recuperação de senha |
 | 2      | 2 semanas| Compra de Tickets             | 1. Interface para compra de tickets, 2. Opções de pagamento, 3. Geração de comprovante, 4. Geração de nota fiscal |
-| 3      | 2 semanas| Tela de Comprovante e Histórico de Transações | 1. Acesso ao comprovante, 2. Tipo do comprovante, 3. Leitura do comprovante, 4. Marcação do comprovante, 5. Acesso ao histórico de transações do usuário, 6. Acesso ao histórico de notas fiscais do usuário, 7. Acesso à todas as transações de todos os usuários para o funcionário, 8. Acesso à todas as notas fiscais de todos os usuários para o funcionário |
+| 3      | 2 semanas| Tela de Comprovante e Histórico de Transações | 1. Acesso ao comprovante, 2. Tipo do comprovante, 3. Leitura do comprovante, 4. Marcação do comprovante, 5. Acesso ao histórico de transações do usuário, 6. Acesso ao histórico de notas fiscais do usuário, 7. Acesso às transações para o funcionário, 8. Acesso às notas fiscais para o funcionário |
 | 4      | 2 semanas| Integração e Deploy           | 1. Integração de todas as funcionalidades, 2. Preparação para o deploy do sistema |
 | 5      | 2 semanas| Requisitos Não Funcionais e Entrega | 1. Criptografia de dados sensíveis, 2. Proteção contra acesso não autorizado, 3. Resposta rápida às solicitações, 4. Interface intuitiva e amigável, 5. Suporte a diferentes tamanhos de tela |
 
