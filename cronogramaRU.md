@@ -141,7 +141,7 @@ O Sistema de Pagamento RU Pay é um software destinado à gestão de compra de t
 
 ### **9. Considerações Finais**
 
-O Sistema de Pagamento RU proporcionará uma experiência eficiente e conveniente para os usuários, garantindo segurança nas transações e facilidade de uso.
+O Sistema de Pagamento RU Pay proporcionará uma experiência eficiente e conveniente para os usuários, garantindo segurança nas transações e facilidade de uso.
 
 ### **10. Cronograma de Sprints**
 
