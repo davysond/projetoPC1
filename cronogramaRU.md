@@ -69,8 +69,8 @@ O Sistema de Pagamento RU Pay é um software destinado à gestão de compra de t
 
   - História de Usuário 12: Como um usuário, quero ter acesso a um registro detalhado das notas fiscais que eu gerei.
   - História de Usuário 13: Como um usuário, quero poder consultar meu histórico de transações e conseguir filtrá-lo.
-  - História de Usuário 14: Como um funcionário, quero ter acesso a um registro com todas as transações feitas por todos os usuários.
-  - História de Usuário 15: Como um funcionário, quero ter acesso a um registro com todas as notas fiscais geradas por todos os usuários.
+  - História de Usuário 14: Como um funcionário, quero ter acesso a um registro com todas as notas fiscais geradas por todos os usuários.
+  - História de Usuário 15: Como um funcionário, quero ter acesso a um registro com todas as transações feitas por todos os usuários e conseguir filtrá-las.
 
 - Requisitos Não Funcionais
 
@@ -149,11 +149,12 @@ O Sistema de Pagamento RU proporcionará uma experiência eficiente e convenient
 |--------|----------|------------------------------|-----------------------------------------------|
 | 1      | 2 semanas| Autenticação e Autorização   | 1. Autenticação de usuários, 2. Inserção da matrícula, 3. Recuperação de senha |
 | 2      | 2 semanas| Compra de Tickets             | 1. Interface para compra de tickets, 2. Opções de pagamento, 3. Geração de comprovante, 4. Geração de nota fiscal |
-| 3      | 2 semanas| Tela de Comprovante e Histórico de Transações | 1-4. Acesso ao comprovante, leitura e marcação do mesmo, 5-8. Acesso ao histórico de transações e notas fiscais, tanto para usuário padrão como funcionário |
+| 3      | 2 semanas| Tela de Comprovante e Histórico de Transações | 1. Acesso ao comprovante, 2. Tipo do comprovante, 3. Leitura do comprovante, 4. Marcação do comprovante, 5. Acesso ao histórico de transações do usuário, 6. Acesso ao histórico de notas fiscais do usuário, 7. Acesso à todas as transações de todos os usuários para o funcionário, 8. Acesso à todas as notas fiscais de todos os usuários para o funcionário |
 | 4      | 2 semanas| Integração e Deploy           | 1. Integração de todas as funcionalidades, 2. Preparação para o deploy do sistema |
 | 5      | 2 semanas| Requisitos Não Funcionais e Entrega | 1. Criptografia de dados sensíveis, 2. Proteção contra acesso não autorizado, 3. Resposta rápida às solicitações, 4. Interface intuitiva e amigável, 5. Suporte a diferentes tamanhos de tela |
 
-### **12. Gestão de Riscos**
+### **11. Gestão de Riscos**
+
 - Risco: Problemas de integração entre as partes do sistema.
   - Mitigação: Realizar testes de integração frequentes durante o desenvolvimento.
 - Risco: Dificuldades técnicas na implementação de métodos de pagamento.
@@ -163,7 +164,7 @@ O Sistema de Pagamento RU proporcionará uma experiência eficiente e convenient
 - Risco: Problemas de segurança devido à criptografia básica.
   - Mitigação: Atualizar a criptografia conforme necessário e realizar auditorias de segurança regulares.
 
-### **13. Funções - Membros**
+### **12. Funções - Membros**
 
 - Anderson de Lima Leite - anderson.leite@ccc.ufcg.edu.br: Desenvolvedor Back-end.
 - Davyson Douglas Gomes Guimarães - davyson.guimaraes@ccc.ufcg.edu.br: Desenvolvedor Back-end/Scrum Master.
