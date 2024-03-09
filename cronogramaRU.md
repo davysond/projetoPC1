@@ -112,13 +112,13 @@ O Sistema de Pagamento RU Pay é um software destinado à gestão de compra de t
 
 - Fluxo do funcionário:
 
-2. **Login**: O usuário faz login no aplicativo.
+2. **Login**: O funcionário faz login no aplicativo.
 
 3. **Leitura de comprovante**: O funcionário pode ler um comprovante.
 
 4. **Marcação do comprovante**: Um comprovante lido se torna inativo e não pode mais ser utilizado.
 
-5. **Histórico**: O usuário pode consultar o histórico de transações e as notas fiscais de todos os usuários a qualquer momento.
+5. **Histórico**: O funcionário pode consultar o histórico de transações e as notas fiscais de todos os usuários a qualquer momento.
 
 ### **7. Testes**
 
